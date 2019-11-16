@@ -6,13 +6,13 @@ Run flask app in docker container
 docker pull ramottamado/creditapp
 docker run -d -p 5000:5000 ramottamado/creditapp
 ```
-Go to localhost:5000
+Go to `localhost:5000`
 
 # Run from folder (Not Docker)
 ```
 python run.py
 ```
-Go to localhost:5000
+Go to `localhost:5000`
 
 # Usage
 
